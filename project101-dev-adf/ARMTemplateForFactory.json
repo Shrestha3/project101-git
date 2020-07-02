@@ -145,7 +145,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"fileName": "Conditional Split.csv",
+						"fileName": "Customer_Join_Right.csv",
 						"container": "input"
 					},
 					"columnDelimiter": ",",
